@@ -43,3 +43,4 @@ Student Information Manager
 ![o2Vgp4Sjmh](https://user-images.githubusercontent.com/26287242/165500221-e698802a-4559-4408-b367-492aad907644.png)
 ![HNCTJHEfH3](https://user-images.githubusercontent.com/26287242/165500603-f90cf895-5891-4ebf-be66-abeae23a01a7.png)
 
+Гланата цел на моята програма е улесненото създаване, гледане и контролиране на данните на учениците и може да се полза за много други цели които имат нужда от контрол на голям брой персонал от каквото и да е поле. 
