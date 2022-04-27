@@ -25,7 +25,7 @@ Student Information Manager
 ![O49YfhYuvf](https://user-images.githubusercontent.com/26287242/165499481-fc76af74-9284-414a-bbc2-8bdd9cfc7b20.png)
 ![opera_tUrEeCyBvj](https://user-images.githubusercontent.com/26287242/165499500-ce5e63a6-e60e-471e-bc8d-cc66fa9b5a2b.png)
 ![opera_CHpBwchvf6](https://user-images.githubusercontent.com/26287242/165499512-ab613905-60e0-42e5-b27a-8ccc85dce69d.png)
-
+![ITwB8mtuF7](https://user-images.githubusercontent.com/26287242/165499719-e12666b6-5f3b-49d5-8fac-71e4e81634b2.png)
 
 Четвъртият бутон е Search, за тази операция също е нужен само ИД номера на записа който искате да видищ, като натиснете бутона таблицата ще изобрази само данните на записа с ИД номера който търсите.
 ![aD699ZeJe2](https://user-images.githubusercontent.com/26287242/165499166-7e1ba365-5dea-40bc-917f-ddea0bf18896.png)
