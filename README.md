@@ -14,8 +14,8 @@ Student Information Manager
 Първият бутон е Insert, трябва всичките полета да са попълнени, иначе ще ви предопреди че всички трябва да са пълни за да извърши операцията, като полълните полетата и натиснете бутона веднага ще видите новият запис в таблицата. 
 <table>
   <tr>
-<td>![mnUkjlPNhJ](https://user-images.githubusercontent.com/26287242/165496278-1f0ed228-0a00-4016-8469-2303cb7b6605.png)</td>
-<td>![opera_hleYTKLT3X](https://user-images.githubusercontent.com/26287242/165496292-b1adebac-c735-4f12-820c-63f524bc90d1.png)</td>
+<td> <img src=![mnUkjlPNhJ](https://user-images.githubusercontent.com/26287242/165496278-1f0ed228-0a00-4016-8469-2303cb7b6605.png)></td>
+<td> <img src=![opera_hleYTKLT3X](https://user-images.githubusercontent.com/26287242/165496292-b1adebac-c735-4f12-820c-63f524bc90d1.png)></td>
     
   </tr>
 </table>
