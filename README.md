@@ -31,9 +31,6 @@ Student Information Manager
 ![aD699ZeJe2](https://user-images.githubusercontent.com/26287242/165499166-7e1ba365-5dea-40bc-917f-ddea0bf18896.png)
 ![irKYlu1cMt](https://user-images.githubusercontent.com/26287242/165499175-e007ffd5-0578-4603-a025-fbb323bc1e93.png)
 
-
 Петият бутон е Get, той се намира до полето за ИД номер и за тази операция също е нужен само ИД номер, операцията автоматично попълва полетата с данните на записа чиито ИД номер сте избрали, целта на операцията е за по лесно изолзване на Update операцията както и да подпомага другите операции.
 ![o2Vgp4Sjmh](https://user-images.githubusercontent.com/26287242/165500221-e698802a-4559-4408-b367-492aad907644.png)
-
-
-
+![Uploading HNCTJHEfH3.png…]()
