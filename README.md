@@ -16,7 +16,9 @@ Student Information Manager
 ![opera_hleYTKLT3X](https://user-images.githubusercontent.com/26287242/165496292-b1adebac-c735-4f12-820c-63f524bc90d1.png)
 
 Вторият бутон е Update, отново трябва всичките полета да са попълнени, иначе ще ви предопреди че всички трябва да са пълни за да извърши операцията, записа които ще се промени зависи от въведения ИД номер (следователно ИД номера не може да бъде променен), като полълните полетата и натиснете бутона веднага ще видите промените в записа.
-
+![pEvUMdAJ0L](https://user-images.githubusercontent.com/26287242/165496646-623c8589-a62e-40a3-8ccf-dd918bad48ae.png)
+![opera_Pnlq9jZeLP](https://user-images.githubusercontent.com/26287242/165496660-f2cbcc50-ffc3-4d3a-ab94-e35f55fefcb8.png)
+![opera_wDCpbmNxyq](https://user-images.githubusercontent.com/26287242/165496675-80dadb9a-fcfd-42ea-91c4-7f6a47e6d086.png)
 
 Третият бутон е Delete, за тази операция е нужен само ИД номера на записа който искате да изтриеш, като натиснете бутона ще иска потвърдение преди завършването на операцията, веднага ще видите че записа вече го няма.
 
