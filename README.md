@@ -12,13 +12,9 @@ Student Information Manager
 ![sEl5TJUX0r](https://user-images.githubusercontent.com/26287242/165495610-1dc8f2d3-9ebc-470a-83d9-f0e65e3bd895.png)
 
 Първият бутон е Insert, трябва всичките полета да са попълнени, иначе ще ви предопреди че всички трябва да са пълни за да извърши операцията, като полълните полетата и натиснете бутона веднага ще видите новият запис в таблицата. 
-<table>
-  <tr>
-<td> <img src="![mnUkjlPNhJ](https://user-images.githubusercontent.com/26287242/165496278-1f0ed228-0a00-4016-8469-2303cb7b6605.png)" width = 360px height = 640px></td>
-<td> <img src="![opera_hleYTKLT3X](https://user-images.githubusercontent.com/26287242/165496292-b1adebac-c735-4f12-820c-63f524bc90d1.png)" width = 360px height = 640px></td>
-    
-  </tr>
-</table>
+
+
+
 Вторият бутон е Update, отново трябва всичките полета да са попълнени, иначе ще ви предопреди че всички трябва да са пълни за да извърши операцията, записа които ще се промени зависи от въведения ИД номер (следователно ИД номера не може да бъде променен), като полълните полетата и натиснете бутона веднага ще видите промените в записа.
 ![pEvUMdAJ0L](https://user-images.githubusercontent.com/26287242/165496646-623c8589-a62e-40a3-8ccf-dd918bad48ae.png)
 ![opera_Pnlq9jZeLP](https://user-images.githubusercontent.com/26287242/165496660-f2cbcc50-ffc3-4d3a-ab94-e35f55fefcb8.png)
