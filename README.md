@@ -22,12 +22,14 @@ Student Information Manager
 ![opera_wDCpbmNxyq](https://user-images.githubusercontent.com/26287242/165496675-80dadb9a-fcfd-42ea-91c4-7f6a47e6d086.png)
 
 Третият бутон е Delete, за тази операция е нужен само ИД номера на записа който искате да изтриеш, като натиснете бутона ще иска потвърдение преди завършването на операцията, веднага ще видите че записа вече го няма.
-![opera_tZX5jDAcjv](https://user-images.githubusercontent.com/26287242/165498737-05a47f8c-549e-41c2-8cac-36bc1924e444.png)
-![opera_tUrEeCyBvj](https://user-images.githubusercontent.com/26287242/165498808-346934c8-9c52-4d3b-af0d-984245406733.png)
-![opera_CHpBwchvf6](https://user-images.githubusercontent.com/26287242/165498815-f0d062a5-8865-48ac-b46e-03135704eb9e.png)
-![opera_5KQujUb2Vz](https://user-images.githubusercontent.com/26287242/165498823-15af7cfa-e94d-4ae1-a88a-ad740d0e6b86.png)
+![O49YfhYuvf](https://user-images.githubusercontent.com/26287242/165499481-fc76af74-9284-414a-bbc2-8bdd9cfc7b20.png)
+![opera_tUrEeCyBvj](https://user-images.githubusercontent.com/26287242/165499500-ce5e63a6-e60e-471e-bc8d-cc66fa9b5a2b.png)
+![opera_CHpBwchvf6](https://user-images.githubusercontent.com/26287242/165499512-ab613905-60e0-42e5-b27a-8ccc85dce69d.png)
+
 
 Четвъртият бутон е Search, за тази операция също е нужен само ИД номера на записа който искате да видищ, като натиснете бутона таблицата ще изобрази само данните на записа с ИД номера който търсите.
+![aD699ZeJe2](https://user-images.githubusercontent.com/26287242/165499166-7e1ba365-5dea-40bc-917f-ddea0bf18896.png)
+![irKYlu1cMt](https://user-images.githubusercontent.com/26287242/165499175-e007ffd5-0578-4603-a025-fbb323bc1e93.png)
 
 
 Петият бутон е Get, той се намира до полето за ИД номер и за тази операция също е нужен само ИД номер, операцията автоматично попълва полетата с данните на записа чиито ИД номер сте избрали, целта на операцията е за по лесно изолзване на Update операцията както и да подпомага другите операции.
