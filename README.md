@@ -12,14 +12,22 @@ Student Information Manager
 ![sEl5TJUX0r](https://user-images.githubusercontent.com/26287242/165495610-1dc8f2d3-9ebc-470a-83d9-f0e65e3bd895.png)
 
 Първият бутон е Insert, трябва всичките полета да са попълнени, иначе ще ви предопреди че всички трябва да са пълни за да извърши операцията, като полълните полетата и натиснете бутона веднага ще видите новият запис в таблицата. 
+
 ![mnUkjlPNhJ](https://user-images.githubusercontent.com/26287242/165498452-568f02fd-f457-4244-84e3-4dc0c01f64d0.png)
 ![opera_hQA70IWOMz](https://user-images.githubusercontent.com/26287242/165498465-8e390a12-032f-408e-a3ef-647aed046c63.png)
 ![opera_dMuBfUY1s4](https://user-images.githubusercontent.com/26287242/165498478-4d23f74f-f18f-432c-bd58-5c6567b9a39d.png)
+
+Ако има празно поле.
+![opera_MlNai0DmPt](https://user-images.githubusercontent.com/26287242/165500892-9425f145-2c8b-4b97-8aad-6542d6835281.png)
+
 
 Вторият бутон е Update, отново трябва всичките полета да са попълнени, иначе ще ви предопреди че всички трябва да са пълни за да извърши операцията, записа които ще се промени зависи от въведения ИД номер (следователно ИД номера не може да бъде променен), като полълните полетата и натиснете бутона веднага ще видите промените в записа.
 ![pEvUMdAJ0L](https://user-images.githubusercontent.com/26287242/165496646-623c8589-a62e-40a3-8ccf-dd918bad48ae.png)
 ![opera_Pnlq9jZeLP](https://user-images.githubusercontent.com/26287242/165496660-f2cbcc50-ffc3-4d3a-ab94-e35f55fefcb8.png)
 ![opera_wDCpbmNxyq](https://user-images.githubusercontent.com/26287242/165496675-80dadb9a-fcfd-42ea-91c4-7f6a47e6d086.png)
+
+Ако има празно поле.
+![opera_MlNai0DmPt](https://user-images.githubusercontent.com/26287242/165500892-9425f145-2c8b-4b97-8aad-6542d6835281.png)
 
 Третият бутон е Delete, за тази операция е нужен само ИД номера на записа който искате да изтриеш, като натиснете бутона ще иска потвърдение преди завършването на операцията, веднага ще видите че записа вече го няма.
 ![O49YfhYuvf](https://user-images.githubusercontent.com/26287242/165499481-fc76af74-9284-414a-bbc2-8bdd9cfc7b20.png)
